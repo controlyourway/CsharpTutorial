@@ -1,0 +1,7 @@
+TutorialCsharp.v12.suo
+build.bat
+nuget.exe
+TutorialCsharp.exe*
+TutorialCsharp.pdb
+TutorialCsharp.vshost.*
+obj/
