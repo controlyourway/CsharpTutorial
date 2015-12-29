@@ -50,12 +50,12 @@
             this.cywControl.Location = new System.Drawing.Point(13, 13);
             this.cywControl.Name = "cywControl";
             this.cywControl.NetworkNames = ((System.Collections.Generic.List<string>)(resources.GetObject("cywControl.NetworkNames")));
-            this.cywControl.NetworkPassword = "xyz123";
+            this.cywControl.NetworkPassword = "accountNetworkPassword";
             this.cywControl.ShowControls = true;
             this.cywControl.Size = new System.Drawing.Size(141, 143);
             this.cywControl.TabIndex = 0;
             this.cywControl.UseEncryption = false;
-            this.cywControl.UserName = "hubert@robospace.co.nz";
+            this.cywControl.UserName = "your.email@address.com";
             this.cywControl.ConnectionStatus += new ControlYourWay.CywCloudInterface.connectionStatusDelegate(this.cywControl_ConnectionStatus);
             this.cywControl.DataReceived += new ControlYourWay.CywControl.byteArrayReceivedDelegate(this.cywControl_DataReceived);
             this.cywControl.Error += new ControlYourWay.CywCloudInterface.errorDelegate(this.cywControl_Error);
