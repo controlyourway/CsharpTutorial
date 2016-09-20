@@ -50,7 +50,7 @@
             this.cywControl.Location = new System.Drawing.Point(13, 13);
             this.cywControl.Name = "cywControl";
             this.cywControl.NetworkNames = ((System.Collections.Generic.List<string>)(resources.GetObject("cywControl.NetworkNames")));
-            this.cywControl.NetworkPassword = "accountNetworkPassword";
+            this.cywControl.NetworkPassword = "Network Password";
             this.cywControl.ShowControls = true;
             this.cywControl.Size = new System.Drawing.Size(141, 143);
             this.cywControl.TabIndex = 0;
