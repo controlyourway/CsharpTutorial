@@ -5,3 +5,4 @@ TutorialCsharp.exe*
 TutorialCsharp.pdb
 TutorialCsharp.vshost.*
 obj/
+*.suo
